@@ -3,11 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-:root {
-    --circle-size: 140px; 
-    --gap: 18px;
-    --accent: #ffffff;
-}
 body{
     height: 100vh;
     width: 100%;
