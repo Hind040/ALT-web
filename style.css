@@ -85,7 +85,7 @@ body {
     height: 1000px;
     width: 100%;
     z-index: 5;
-    background-color: black;
+    background-color: transparent;
 }
 
 .chiffre-container {
@@ -388,7 +388,7 @@ body {
     width: 60px;
     background-color:#0091D4;
     position: relative;
-    left: 48%;
+    left: 50%;
     rotate: 46deg;  
     top: 710px;
 
@@ -401,6 +401,7 @@ body {
    font-family: Metropolis, sans-serif; 
    font-weight: 500;
    text-align: center;
+   
    
    
 }
@@ -416,4 +417,90 @@ body {
     height: 490px;
     width: 400px;
     
+}
+.titre-r {
+    text-align: center;
+    position: relative;
+    top: 130px;
+
+}
+.txt-r{
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+.titre-r h1{
+    font-size: 70px;
+    font-family:'Inter', sans-serif;
+    font-weight: 300;
+    color: #043962;
+}
+.txt-r p{
+    font-size: 20px;
+    color: #043962;
+}
+.img-rn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:30px;
+    position: relative;
+    top: 200px;
+
+}
+.img-rn img{
+   height: 500px;
+}
+.square2{
+     height: 70px;
+    width: 70px;
+    background-color:#FFFFFF;
+    position: absolute;
+    rotate: 46deg;  
+    left: 50%;
+    top: 566px;
+    z-index: 1;
+     
+}
+.yellow-band-content{
+    background-image: url(/yellowband.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    top: 300px;
+    height: 300px;
+}
+.yellow-band-content img{
+    height: 250px;
+    position: relative;
+    top: 30px;
+    left: 300px;
+}
+.paragraph-yb{
+    font-size: 35px;
+    font-family: "Inter", sans serif;
+    font-weight: 300;
+    color: #043962;
+    position: relative;
+    left: 750px;
+    bottom: 150px;
+}
+.btn1{
+    background-color: #0693E3;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 10px;
+    border: #0693E3;
+    cursor: pointer;
+    letter-spacing:2px ;
+    font-size: 19px;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    font-weight:200 ;
+}
+.ag{
+     height: 1000px;
+    width: 100%;
+    background-color:red;
 }
