@@ -499,8 +499,88 @@ body {
     top: 20px;
     font-weight:200 ;
 }
-.ag{
+.sw{
      height: 1000px;
     width: 100%;
     background-color:red;
+}
+.Nos-agences{
+    height: 1200px;
+    width: 100%;
+    background-color:#0091D4;
+}
+.titre-na h1{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 400;
+    color:#FFFFFF;
+}
+.txt-na{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-family: inter;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.maroc img{
+   height: 700px;
+   position: relative;
+   top: 300px;
+   left: 100px;
+}
+.maroc h1{
+    position: relative;
+    bottom: 300px;
+    left: 900px;
+    font-family: inter;
+    color: #FFFFFF;
+}
+.maroc h3{
+    position: relative;
+    bottom: 260px;
+    left: 900px;
+    color: #FFFFFF;
+    font-family: inter;   
+    font-weight: 300;
+}
+.icons{
+    position: relative;
+    bottom: 324px;
+    left: 870px;
+}
+.c1{
+   
+    position: relative;
+    bottom: 550px;
+    left: 600px;
+    cursor: pointer;
+    
+}
+.c2{
+    position: relative;
+    bottom: 650px;
+    left: 575px;
+    cursor: pointer;
+}
+.c3{
+    position: relative;
+    bottom: 580px;
+    left: 450px;
+    cursor: pointer;
+}
+.c4{
+    position: relative;
+    bottom: 600px;
+    left: 430px;
+    cursor: pointer;
+}
+.cy{
+    position: relative;
+    bottom: 625px;
+    left: 600px; 
+    cursor: pointer;
 }
