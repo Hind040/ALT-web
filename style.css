@@ -560,12 +560,7 @@ body {
     cursor: pointer;
     
 }
-.c2{
-    position: relative;
-    bottom: 650px;
-    left: 575px;
-    cursor: pointer;
-}
+
 .c3{
     position: relative;
     bottom: 580px;
@@ -578,9 +573,29 @@ body {
     left: 430px;
     cursor: pointer;
 }
-.cy{
+.y1{
     position: relative;
     bottom: 625px;
-    left: 600px; 
+    left: 600px;
     cursor: pointer;
+    transition: 0.9s;
+}
+.y2{
+    position: relative;
+    bottom: 678px;
+    left: 584px;
+    transition: 0.4s;
+    cursor: pointer;
+
+
+}
+.N{
+    position: relative;
+    bottom: 650px;
+    left: 575px;
+}
+.N:hover::after{
+
+  
+  
 }
